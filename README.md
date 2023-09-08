@@ -1,3 +1,4 @@
+# quic_proxy
 *dfasdfasdf*
 
 _dasfdsfadsf_
@@ -6,16 +7,7 @@ _dasfdsfadsf_
 
 ~~afdfasdfads~~
 
-==fdasfsaf==
-
-`sadf`
-
-#***asdfads***
-
-| asd  | asd  |
-| :--: | ---- |
-
-
+`fdasfsaf`
 
 ```go
 func main(){
@@ -24,21 +16,5 @@ func main(){
 ```
 
 > dsafdasf
-
-- dasfsadf
-- dsafsa
-
-
-
-1. dsaf
-2. dfasdf
-3. 232[^1]
-
-[baidu](https://www.baidu.com)
-
-![aaaa]()
-
-***
-
-[^1]: asdfsdfasdfasd
-
+>
+> > > fdasfasf
